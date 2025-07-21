@@ -6,7 +6,7 @@
 
 📍 Pathanamthitta, Kerala, India  
 🎥 YouTube: [@themalludev](https://www.youtube.com/@HBAMAL)  
-📷 Instagram: [tech.vj](https://instagram.com/thehb_amal)  
+📷 Instagram: [THEHB_AMAL](https://instagram.com/thehb_amal)  
 
 
 </div>
