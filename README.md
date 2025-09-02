@@ -1,49 +1,37 @@
 <div align="center">
 
-# 👋 Hi there, I'm Hb Amal (HB Bots)
-
-
+# 👋 Hi there, I'm **Hb Amal** (aka HB Bots)  
 
 📍 Pathanamthitta, Kerala, India  
-🎥 YouTube: [@thehb](https://www.youtube.com/@HBAMAL)  
-📷 Instagram: [THEHB_AMAL](https://instagram.com/thehb_amal)  
-
+🎥 [YouTube – @THE HB](https://www.youtube.com/@HBAMAL)  
+📷 [Instagram – THEHB_AMAL](https://instagram.com/thehb_amal)  
 
 </div>
 
 ---
 
-- ## 🔭 I’m Working On
-
-- 🤖 **Telegram Bots** – Automating tasks, group management, and custom user interactions (private projects)
-- 🌐 **Modern Websites** – Building responsive and interactive UIs using HTML, CSS, JavaScript & PHP
-- 📱 **React Native Apps** – Developing cross-platform mobile apps with seamless UX
-- 🧠 **Automation Tools** – Creating custom scripts and tools with Python to simplify workflows
-- 🚀 **Open Source Projects** – Contributing to the community and releasing helpful bots & utilities
-
+## 🔭 What I’m Working On
+- 🤖 **Telegram Bots** – Automating tasks, group management & custom interactions  
+- 🌐 **Modern Websites** – Responsive UIs with **Next.js**, **Tailwind CSS**, **JavaScript**, **PHP**  
+- 📱 **Mobile Apps** – Cross-platform development with **React Native**  
+- 🧠 **Automation Tools** – Python scripts to simplify workflows  
+- 🚀 **Open Source** – Bots, utilities & community-driven projects  
 
 ---
 
-### ⚡ What I Bring to the Table
-🎨 Web Development: HTML, CSS, JavaScript, PHP </br>
+## ⚡ What I Bring to the Table
+- 🎨 **Web Development**: HTML, CSS, JavaScript, PHP, **Next.js**, **Tailwind CSS**  
+- 📱 **App Development**: React Native for iOS & Android  
+- 🤖 **Bot Development**: Custom Telegram bots with Python  
+- ⚙️ **Backend**: Node.js, Express, MySQL, MongoDB, **Supabase**, **Firebase**  
+- ☁️ **Deployment**: DigitalOcean, Heroku, GitHub Actions  
+- 🧠 **Soft Skills**: Fast learner, critical thinker, solution-driven mindset  
 
-📱 App Development: React Native for iOS & Android </br>
-
-🤖 Telegram Bot Developer: Custom bots with Python </br>
-
-⚙️ Backend: Node.js, Express, MySQL, MongoDB </br>
-
-🚀 Deployment: Experience with DigitalOcean, Heroku, and GitHub Actions </br>
-
-🧠 Fast learner, critical thinker, and solution-driven coder </br>
-
-
-
-
+---
 
 ## 💼 Tech Stack
 
-### 🧑‍💻 Programming Languages
+### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -52,7 +40,7 @@
 
 ---
 
-### ⚛️ Frontend & UI Frameworks
+### ⚛️ Frontend & UI
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=Sass&logoColor=white)
@@ -67,7 +55,7 @@
 
 ---
 
-### 🛢️ Databases
+### 🛢️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,17 +68,11 @@
 ### ☁️ Hosting & DevOps
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-
-
----
-
-### 📦 Tools & Automation
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-### 🤖 Bot Frameworks & Automation
+### 🤖 Bots & Automation
 ![Python Telegram Bot](https://img.shields.io/badge/python%20telegram%20bot-%23121011.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-%230073b3.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-%23121011.svg?style=for-the-badge&logo=telegram&logoColor=white)
