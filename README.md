@@ -5,7 +5,7 @@
 
 
 📍 Pathanamthitta, Kerala, India  
-🎥 YouTube: [@themalludev](https://www.youtube.com/@HBAMAL)  
+🎥 YouTube: [@thehb](https://www.youtube.com/@HBAMAL)  
 📷 Instagram: [THEHB_AMAL](https://instagram.com/thehb_amal)  
 
 
@@ -24,7 +24,7 @@
 
 ---
 
-###⚡ What I Bring to the Table
+### ⚡ What I Bring to the Table
 🎨 Web Development: HTML, CSS, JavaScript, PHP </br>
 
 📱 App Development: React Native for iOS & Android </br>
@@ -56,6 +56,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=Sass&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -70,6 +72,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -90,5 +94,3 @@
 ![Python Telegram Bot](https://img.shields.io/badge/python%20telegram%20bot-%23121011.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-%230073b3.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-%23121011.svg?style=for-the-badge&logo=telegram&logoColor=white)
-
-
